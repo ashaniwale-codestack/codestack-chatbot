@@ -1,0 +1,4 @@
+venv/
+ven/
+.env
+python -m venv venv
