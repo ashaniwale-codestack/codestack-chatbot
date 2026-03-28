@@ -2,3 +2,4 @@ venv/
 ven/
 .env
 python -m venv venv
+node_modules/
