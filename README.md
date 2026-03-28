@@ -1,2 +1,2 @@
 # codestackBot
-This is a chatbot who scan the repositories files and response to the user queries/questions
+LLM powered chatbot to scan the repositories files and response to the user queries/questions
