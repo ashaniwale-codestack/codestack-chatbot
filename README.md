@@ -1,6 +1,17 @@
-# codestackBot 🤖
+# Multi LLM Chat Platform 🤖
 
-This is an AI-powered chatbot that scans repository files and responds to user queries using LLMs.
+------
+## Architecture
+
+Frontend (React)
+   ↓
+API Gateway (TypeScript/Node)
+   ↓
+AI Service Layer
+   ├── Ollama (local)
+   └── OpenAI (cloud)
+   ↓
+Database (MongoDB)
 
 ---
 
